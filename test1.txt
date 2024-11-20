@@ -4,3 +4,6 @@ There is new open and move on remote.
 I have complete new another line
 
 I Have complete git learning
+
+
+I have stated my learning c programming in November 2024
