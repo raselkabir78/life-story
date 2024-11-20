@@ -7,3 +7,5 @@ I Have complete git learning
 
 
 I have stated my learning c programming in November 2024
+
+Logo alignment is centred 
